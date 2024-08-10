@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "craftablenow",
+  "version": "${version}",
+  "name": "Craftable Now",
+  "description": "Now you can craft things that are not available in vanilla survival. That's it.",
+  "authors": [
+    "mishakrpv"
+  ],
+  "contact": {
+    "sources": "https://github.com/mishakrpv/craftable-now"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.mishakrpv.craftablenow.client.CraftableNowClient"
+    ],
+    "main": [
+      "com.mishakrpv.craftablenow.CraftableNow"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
