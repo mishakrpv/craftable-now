@@ -16,7 +16,7 @@ Fabric mod that allows you to craft several things not available for crafting in
 
 3x3, Shaped
 
-![Barrier recipe](https://github.com/mishakrpv/craftable-now/blob/master/img/barrier-recipe.png?raw=true)
+<img src="https://github.com/mishakrpv/craftable-now/blob/master/img/barrier-recipe.png?raw=true" alt="Barrier recipe" width="408"/>
 
 ### Light Block
 
